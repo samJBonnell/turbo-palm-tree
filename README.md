@@ -5,6 +5,7 @@ fileCollector.cpp
 
 A simple program that non-recursively searches, removes, and copies a specified file type from a specified directory to another. Designed specifically to archive .bak AutoCAD files.
 
+
 mineralTesting.cpp
 
 A program I wrote to test my knowledge of mineral properties for a geological engineering class.
