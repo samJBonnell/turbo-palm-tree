@@ -9,3 +9,8 @@ A simple program that non-recursively searches, removes, and copies a specified 
 mineralTesting.cpp
 
 A program I wrote to test my knowledge of mineral properties for a geological engineering class.
+
+
+trackerDataTable.cpp
+
+A program that takes and seperates data from a physics tracking program called Tracker.
